@@ -7,6 +7,9 @@ import junit.framework.Assert;
 
 public class somaTeste {
 	
+	/**
+	 * @author Angelo Moura
+	 */
 	@Test
 	public void testeSoma() {
 		double result;
